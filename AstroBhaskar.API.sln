@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AstroBhaskar.API", "AstroBhaskar.API\AstroBhaskar.API.csproj", "{B9A99D51-D0E1-4E61-B20D-A744EBB3D5AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AstroBhaskar.Tests", "AstroBhaskar.Tests\AstroBhaskar.Tests.csproj", "{83957C08-0175-4283-BBA1-86CBF95F7156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9A99D51-D0E1-4E61-B20D-A744EBB3D5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A99D51-D0E1-4E61-B20D-A744EBB3D5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A99D51-D0E1-4E61-B20D-A744EBB3D5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A99D51-D0E1-4E61-B20D-A744EBB3D5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83957C08-0175-4283-BBA1-86CBF95F7156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83957C08-0175-4283-BBA1-86CBF95F7156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83957C08-0175-4283-BBA1-86CBF95F7156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83957C08-0175-4283-BBA1-86CBF95F7156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {910AB8A7-F414-4B7C-9A56-CBE7B5F5EF83}
+	EndGlobalSection
+EndGlobal
